@@ -6,7 +6,7 @@
     using System.Threading.Tasks;
     public class Student
     {
-        public string ID { set; get; }
+        public int  ID { set; get; }
         public string LastName { set; get; }
         public string FirstMidName { set; get; }
         public DateTime EnrollmentDate { set; get; }
